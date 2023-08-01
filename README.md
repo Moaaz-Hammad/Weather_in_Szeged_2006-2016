@@ -10,7 +10,8 @@ Steps:
 
 2.1- Info about data
 
-3-Data Cleaning & Pre-processing
+3- Data Cleaning & Pre-processing
+
 
 3.1- Dealing with Missing Data
 
