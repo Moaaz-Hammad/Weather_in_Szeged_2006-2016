@@ -17,17 +17,17 @@ Steps:
 
 3.2- Drop the columns that I don't need
 
-5-Exploratory Data Analysis
+4-Exploratory Data Analysis
 
-6- Building Our Model
+5- Building Our Model
 
-6.1- Define X and Y
+5.1- Define X and Y
 
-6.2- Train / Test Split Data
+5.2- Train / Test Split Data
 
-6.3- Model Training and Predicting
+5.3- Model Training and Predicting
 
-6.4- Model Evaluation
+5.4- Model Evaluation
 
 Tools I used:
 
